@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Política de Privacidade - [NOME DO SEU APP]</title>
+    <title>Política de Privacidade - Guard Call>/title>
     <style>
         body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; color: #333; max-width: 800px; }
         h1, h2 { color: #1a73e8; }
